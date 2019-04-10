@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LootWars">
+    <output-path>$PROJECT_DIR$/out/artifacts/LootWars</output-path>
+    <root id="archive" name="LootWars.jar">
+      <element id="module-output" name="PLootWars" />
+    </root>
+  </artifact>
+</component>

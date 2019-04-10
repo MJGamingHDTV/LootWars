@@ -1,0 +1,10 @@
+name: LootWars
+version: ${project.version}
+main: net.piraty.mj.lootwars.LootWars
+prefix: LootWars
+authors: [MJ]
+commands:
+  start:
+  lootwars:
+    aliases:
+      - lw
